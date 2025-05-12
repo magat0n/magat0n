@@ -1,23 +1,88 @@
-# Olá, Bem Vindo ao meu perfil!👋 (EM MANUTENÇÃO)
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&animation=fadeIn"
+/>
 
-🔧 **O que faço**: Desenvolvedor Front-end | Analista de Dados | Estudante de Análise e Desenvolvimento de Sistemas  
-📍 **Moro em**: Marília-SP
-📚 **Com esperiência em**: HTML, CSS, Javascript, Python.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo)](https://git.io/typing-svg)
 
-## 🛠 Tecnologias  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+## 👋 Olá, eu sou Giovani Magaton! (EM MANUTENÇÃO)
+
+**`Estudante de Desenvolvimento de Sistemas`**
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas no Amilcare Mattei, apaixonado por tecnologia, programação e inovação. Sempre em busca de aprender algo novo 🚀
+
+- 👨‍💻 Atualmente sou estudante da 3º série do Ensino Médio.
+- 🎓 Cursando Desenvolvimento de Sistemas no Amilcare Mattei. 
+- 💻  Co-host do [TechLearn](https://github.com/magat0n/Tech-Learn-UNIMAR)
+- 📍 Marília - SP  
+- 📬 E-mail: [magatonf2919@gmail.com](magatonf2919@gmail.com)
+
+---
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
+</picture>
 
 
-## 📊 Estatísticas do GitHub  
+
+---
+
+## 🌐 Redes sociais
+
+<p align="center">
+  <a href="https://instagram.com/gimagaton___" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="[(https://www.linkedin.com/in/giovani-magaton-62176a2b9/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="magatonf2919@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/magat0n" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Competências
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="30px" />
+  <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" title="gpt" alt="gpt" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" alt="git" width="30px" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="canva" alt="canva" width="30px" /> 
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
 ![Seu Stats](https://github-readme-stats.vercel.app/api?username=magatOn&show_icons=true&theme=radical)  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU-USER-SPOTIFY&cover_image=true)
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=magatOn&theme=github-dark&hide_border=true)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=magatOn&repo=magatOn&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magatOn&layout=compact&theme=vision-friendly-dark&hide_progress=false)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=magatOn&theme=onedark&no-frame=true&column=3)
 
-## 📫 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)  
+</div>
+
+###
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
+
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&animation=fadeIn&fontColor=ffffff"
+/>
