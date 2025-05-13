@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo)](https://git.io/typing-svg)
 
-## 👋 Olá, eu sou Giovani Magaton! (EM MANUTENÇÃO)
+## 👋 Olá, eu sou Giovani Magaton!
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
@@ -20,18 +20,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Amilcare Mattei, apai
 - 💻  Co-host do [TechLearn](https://github.com/magat0n/Tech-Learn-UNIMAR)
 - 📍 Marília - SP  
 - 📬 E-mail: [magatonf2919@gmail.com](magatonf2919@gmail.com)
-
----
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorocks51987/lorocks51987/output/pacman-contribution-graph.svg">
-</picture>
-
-
 
 ---
 
@@ -68,18 +56,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Amilcare Mattei, apai
 </p>
 
 ---
-
-## 📊 Estatísticas
-
-<div align="center">
-![Seu Stats](https://github-readme-stats.vercel.app/api?username=magatOn&show_icons=true&theme=radical)  
-
-</div>
-
-###
-
----
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
 
 <img 
