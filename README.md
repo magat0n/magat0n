@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo)](https://git.io/typing-svg)
 
 ## 👋 Olá, eu sou Giovani Magaton!
-
 **`Estudante de Desenvolvimento de Sistemas`**
 
 ---
@@ -55,7 +54,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Amilcare Mattei, apai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="canva" alt="canva" width="30px" /> 
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magat0n&show_icons=true&theme=dark&locale=en&layout=compact" alt="magat0n" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=magat0n&show_icons=true&theme=dark&locale=en" alt="magat0n" /></p>
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
 
 <img 
