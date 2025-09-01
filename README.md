@@ -56,9 +56,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Amilcare Mattei, apai
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#A020F0&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+sempre+e+bora+crescer+juntos!)](https://git.io/typing-svg)
 
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&animation=fadeIn&fontColor=ffffff"
-/>
