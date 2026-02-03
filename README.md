@@ -1,17 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo)](https://git.io/typing-svg)
 
 ## 👋 Olá, eu sou Giovani Magaton!
-**`Estudante de Desenvolvimento de Sistemas`**
+**`Estudante de Ciências da Computação`**
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Amilcare Mattei, apaixonado por tecnologia, programação e inovação. Sempre em busca de aprender algo novo 🚀
+Sou estudante de Ciências da Computação na Unimar, apaixonado por tecnologia, programação e inovação. Sempre em busca de aprender algo novo 🚀
 
-- 👨‍💻 Atualmente sou estudante da 3º série do Ensino Médio.
-- 🎓 Cursando Desenvolvimento de Sistemas no Amilcare Mattei. 
-- 💻  Co-host do [TechLearn](https://github.com/magat0n/Tech-Learn-UNIMAR)
+- 🎓 Cursando Ciências da Computação na Unimar. 
+- 💻 Apresentador do CodeCast.
 - 📍 Marília - SP  
 - 📬 E-mail: [magatonf2919@gmail.com](magatonf2919@gmail.com)
 
