@@ -10,7 +10,7 @@
 Sou estudante de Ciências da Computação na Unimar, apaixonado por tecnologia, programação e inovação. Sempre em busca de aprender algo novo 🚀
 
 - 🎓 Cursando Ciências da Computação na Unimar. 
-- 💻 Apresentador do CodeCast. [https://www.youtube.com/@codecast_unimar]
+- 💻 Apresentador do CodeCast. https://www.youtube.com/@codecast_unimar
 - 📍 Marília - SP  
 - 📬 E-mail: [magatonf2919@gmail.com](magatonf2919@gmail.com)
 
